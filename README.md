@@ -9,7 +9,8 @@
     <img src="preview/prev3.png"><br><br><br><br>  
     <img src="preview/prev4.png"><br><br><br><br>  
     <img src="preview/prev5.png"><br><br><br><br>  
-    <img src="preview/prev6.png"><br>
+    <img src="preview/prev6.png"><br><br><br><br>
+    <img src="preview/prev7.png"><br>
   </li>
 
 </ul>
