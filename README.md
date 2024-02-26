@@ -4,12 +4,12 @@
 <ul>
   <li>
     <h2>On Desktop </h2>
-    <img src="Preview/prev1.png"><br><br><br><br>   
-    <img src="Preview/prev2.png"><br><br><br><br>  
-    <img src="Preview/prev3.png"><br><br><br><br>  
-    <img src="Preview/prev4.png"><br><br><br><br>  
-    <img src="Preview/prev5.png"><br><br><br><br>  
-    <img src="Preview/prev6.png"><br>
+    <img src="preview/prev1.png"><br><br><br><br>   
+    <img src="preview/prev2.png"><br><br><br><br>  
+    <img src="preview/prev3.png"><br><br><br><br>  
+    <img src="preview/prev4.png"><br><br><br><br>  
+    <img src="preview/prev5.png"><br><br><br><br>  
+    <img src="preview/prev6.png"><br>
   </li>
 
 </ul>
